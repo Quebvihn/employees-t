@@ -41,6 +41,10 @@ To run the Employee Management System, follow these steps:
 
 ![Command Line Screenshot](<images/Screenshot 2023-10-29 164341.png>)
 
+## Video 
+
+[Video Presentation ](https://drive.google.com/file/d/1PwZ9IhS08l-RYqFpO5bsW1spX2iMb7V2/view)
+
 ## Technologies Used
 
 - Node.js
