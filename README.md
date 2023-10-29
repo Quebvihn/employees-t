@@ -39,7 +39,7 @@ To run the Employee Management System, follow these steps:
 
 ## Screenshots
 
-Include screenshots or a GIF of your application in action.
+![Command Line Screenshot](<images/Screenshot 2023-10-29 164341.png>)
 
 ## Technologies Used
 
