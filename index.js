@@ -6,3 +6,4 @@ db.connect(err => {
     console.log('Database connected.');
     employee_tracker();
 });
+
