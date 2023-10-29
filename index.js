@@ -232,5 +232,10 @@ var employee_tracker = function () {
                         employee_tracker();
                     });
                 })
-            })
-};})}
+            });
+        } else if (answers.prompt === 'Log Out') {
+            db.end();
+            console.log("Good-Bye!");
+        }
+    })
+};
